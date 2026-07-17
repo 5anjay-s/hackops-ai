@@ -1,0 +1,32 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Testing
+.hypothesis/
+.pytest_cache/
+htmlcov/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+
+# Kiro specs (internal)
+.kiro/
+
+# Deploy artifacts
+deploy/package/
+deploy/*.zip
+deploy/invoke-result.json
+
+# OS
+.DS_Store
+Thumbs.db
