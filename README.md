@@ -1,4 +1,4 @@
-<h1 align="center">🚀 HackOps AI</h1>
+<h1 align="center"> HackOps AI</h1>
 
 <p align="center">
   <strong>A serverless multi-agent system that discovers hackathons, evaluates them with Amazon Bedrock, and delivers a live Notion dashboard — fully automated, every day.</strong>
@@ -42,7 +42,7 @@ HackOps AI runs a three-agent pipeline on AWS Lambda, triggered daily by EventBr
 > **[🔗 View the Hackathon Tracker on Notion](https://app.notion.com/p/3a00cf259e9e8064a44efecb2cf3ab32?v=3a00cf259e9e801d8c59000c72b76a4d)**
 
 <p align="center">
-  <img src="demo/listed notion table.png" alt="Populated Hackathon Tracker" width="750"/>
+  <img src="demo/filled notion table.png" alt="Populated Hackathon Tracker" width="750"/>
 </p>
 
 Every row includes AI-generated strategic analysis — priorities, difficulty ratings, winning probability, and recommended tech stacks. Updated automatically every 24 hours.
@@ -292,5 +292,5 @@ pytest tests/ -v
 ---
 
 <p align="center">
-  <sub>Built for the <strong>AWS Weekend Agent Challenge</strong> • Powered by Amazon Bedrock + Lambda + EventBridge</sub>
+  <sub>Built with <strong> <3 for agents </strong> on AWS </sub>
 </p>
